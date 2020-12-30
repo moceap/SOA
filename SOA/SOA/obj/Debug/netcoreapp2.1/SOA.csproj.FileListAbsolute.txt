@@ -1,0 +1,11 @@
+C:\Users\Mosaab Alzoubi\source\repos\SOA\SOA\bin\Debug\netcoreapp2.1\SOA.deps.json
+C:\Users\Mosaab Alzoubi\source\repos\SOA\SOA\bin\Debug\netcoreapp2.1\SOA.runtimeconfig.json
+C:\Users\Mosaab Alzoubi\source\repos\SOA\SOA\bin\Debug\netcoreapp2.1\SOA.runtimeconfig.dev.json
+C:\Users\Mosaab Alzoubi\source\repos\SOA\SOA\bin\Debug\netcoreapp2.1\SOA.dll
+C:\Users\Mosaab Alzoubi\source\repos\SOA\SOA\bin\Debug\netcoreapp2.1\SOA.pdb
+C:\Users\Mosaab Alzoubi\source\repos\SOA\SOA\obj\Debug\netcoreapp2.1\SOA.csprojAssemblyReference.cache
+C:\Users\Mosaab Alzoubi\source\repos\SOA\SOA\obj\Debug\netcoreapp2.1\SOA.csproj.CoreCompileInputs.cache
+C:\Users\Mosaab Alzoubi\source\repos\SOA\SOA\obj\Debug\netcoreapp2.1\SOA.AssemblyInfoInputs.cache
+C:\Users\Mosaab Alzoubi\source\repos\SOA\SOA\obj\Debug\netcoreapp2.1\SOA.AssemblyInfo.cs
+C:\Users\Mosaab Alzoubi\source\repos\SOA\SOA\obj\Debug\netcoreapp2.1\SOA.dll
+C:\Users\Mosaab Alzoubi\source\repos\SOA\SOA\obj\Debug\netcoreapp2.1\SOA.pdb
