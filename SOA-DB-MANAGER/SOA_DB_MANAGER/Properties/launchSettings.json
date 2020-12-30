@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SOA_DB_MANAGER": {
+      "commandName": "Project",
+      "commandLineArgs": "list"
+    }
+  }
+}

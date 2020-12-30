@@ -1,0 +1,11 @@
+C:\Users\Mosaab Alzoubi\source\repos\SOA_DB_MANAGER\SOA_DB_MANAGER\bin\Release\netcoreapp2.1\SOA_DB_MANAGER.deps.json
+C:\Users\Mosaab Alzoubi\source\repos\SOA_DB_MANAGER\SOA_DB_MANAGER\bin\Release\netcoreapp2.1\SOA_DB_MANAGER.runtimeconfig.json
+C:\Users\Mosaab Alzoubi\source\repos\SOA_DB_MANAGER\SOA_DB_MANAGER\bin\Release\netcoreapp2.1\SOA_DB_MANAGER.runtimeconfig.dev.json
+C:\Users\Mosaab Alzoubi\source\repos\SOA_DB_MANAGER\SOA_DB_MANAGER\bin\Release\netcoreapp2.1\SOA_DB_MANAGER.dll
+C:\Users\Mosaab Alzoubi\source\repos\SOA_DB_MANAGER\SOA_DB_MANAGER\bin\Release\netcoreapp2.1\SOA_DB_MANAGER.pdb
+C:\Users\Mosaab Alzoubi\source\repos\SOA_DB_MANAGER\SOA_DB_MANAGER\obj\Release\netcoreapp2.1\SOA_DB_MANAGER.csprojAssemblyReference.cache
+C:\Users\Mosaab Alzoubi\source\repos\SOA_DB_MANAGER\SOA_DB_MANAGER\obj\Release\netcoreapp2.1\SOA_DB_MANAGER.csproj.CoreCompileInputs.cache
+C:\Users\Mosaab Alzoubi\source\repos\SOA_DB_MANAGER\SOA_DB_MANAGER\obj\Release\netcoreapp2.1\SOA_DB_MANAGER.AssemblyInfoInputs.cache
+C:\Users\Mosaab Alzoubi\source\repos\SOA_DB_MANAGER\SOA_DB_MANAGER\obj\Release\netcoreapp2.1\SOA_DB_MANAGER.AssemblyInfo.cs
+C:\Users\Mosaab Alzoubi\source\repos\SOA_DB_MANAGER\SOA_DB_MANAGER\obj\Release\netcoreapp2.1\SOA_DB_MANAGER.dll
+C:\Users\Mosaab Alzoubi\source\repos\SOA_DB_MANAGER\SOA_DB_MANAGER\obj\Release\netcoreapp2.1\SOA_DB_MANAGER.pdb
