@@ -14,6 +14,7 @@ namespace SOA_DB_MANAGER
             public static string connStr = "server=localhost;user=root;database=SOA;port=3306;password="; //Change As You Want
             public static string selectedMethod = "";
             public static string sqlQuery = "";
+            public static string idType = "";
             public static int versionFisrstNumber = 0; // Before Dot
             public static int versionSecondNumber = 1; // After Dot
 
@@ -48,6 +49,10 @@ namespace SOA_DB_MANAGER
                     {
                         Globals.selectedMethod = "set";
                     }
+                    else if (transArg[0] == "getone")
+                    {
+                        Globals.selectedMethod = "getone";
+                    }
                     else if (transArg[0] == "list")
                     {
                         Globals.selectedMethod = "list";
@@ -55,7 +60,7 @@ namespace SOA_DB_MANAGER
                     else
                     {
                         Globals.selectedMethod = "none";
-                        Console.WriteLine("Please select: set, get or list");
+                        Console.WriteLine("Please select: set, get, getone or list");
                         System.Environment.Exit(1);
                     }
                 }
@@ -97,6 +102,53 @@ namespace SOA_DB_MANAGER
                 System.Environment.Exit(1);
             }
         }
+        private static void idName(string tableName)
+        {
+            if (tableName == "users")
+            {
+                Globals.idType = "id";
+            }
+            else if (tableName == "tickets")
+            {
+                Globals.idType = "tktID";
+            }
+            else if (tableName == "questions")
+            {
+                Globals.idType = "quesId";
+            }
+            else if (tableName == "departments")
+            {
+                Globals.idType = "depID";
+            }
+            else if (tableName == "answers")
+            {
+                Globals.idType = "ansID";
+            }
+
+        }
+        private static void getOneMethod(string[] transArg)
+        {
+            try
+            {
+                // Detecting Second Argument
+                if (transArg.Length == 3 && checkTable(transArg[1]))
+                {
+                    idName(transArg[1]);
+                    Globals.sqlQuery = $"SELECT * FROM {transArg[1]} WHERE {Globals.idType} = {transArg[2]}";
+                }
+                else
+                {
+                    Console.WriteLine("getOne needs two correct argument, check list");
+                    System.Environment.Exit(1);
+                }
+            }
+            catch
+            {
+                Console.WriteLine(Globals.welcomeMessage);
+                System.Environment.Exit(1);
+            }
+        }
+
         private static void setMethod(string[] transArg)
         {
             try
@@ -196,6 +248,10 @@ namespace SOA_DB_MANAGER
             {
                 getMethod(args);
             }
+            else if (Globals.selectedMethod == "getone")
+            {
+                getOneMethod(args);
+            }
             else if (Globals.selectedMethod == "set")
             {
                 setMethod(args);
@@ -211,7 +267,7 @@ namespace SOA_DB_MANAGER
                 conn.Open();
                 // Number of Column
                 int NoOfCol = 0;
-                if(Globals.selectedMethod == "get")
+                if(Globals.selectedMethod == "get" || Globals.selectedMethod == "getone")
                 {
                     string SqlChkNo = $"SELECT count(*) AS NUMBEROFCOLUMNS FROM information_schema.columns WHERE table_schema = 'soa' AND table_name = '{args[1]}'";
                     MySqlCommand ChkNo = new MySqlCommand(SqlChkNo, conn);
@@ -231,7 +287,7 @@ namespace SOA_DB_MANAGER
                     {
                         Console.WriteLine(rdr[0]);
                     }
-                    else if (Globals.selectedMethod == "get")
+                    else if (Globals.selectedMethod == "get" || Globals.selectedMethod == "getone")
                     {
                         foreach (int value in Enumerable.Range(0, NoOfCol))
                         {
