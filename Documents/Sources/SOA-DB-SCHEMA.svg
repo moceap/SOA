@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="252 48 618 442" width="366px" height="394px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <line x1="356" y1="133" x2="366" y2="133" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="497" y1="102" x2="507" y2="102" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="366" y1="133" x2="497" y2="102" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="363.5" y1="133" x2="359.96446609407" y2="136.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="363.5" y1="133" x2="359.96446609407" y2="129.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="502" y1="102" x2="498.46446609407" y2="105.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="502" y1="102" x2="498.46446609407" y2="98.464466094067" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="507" y1="182" x2="497" y2="182" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="366" y1="93" x2="356" y2="93" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="497" y1="182" x2="366" y2="93" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="499.5" y1="182" x2="503.03553390593" y2="185.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="499.5" y1="182" x2="503.03553390593" y2="178.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="361" y1="93" x2="364.53553390593" y2="96.535533905933" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="361" y1="93" x2="364.53553390593" y2="89.464466094067" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="517" y1="335" x2="507" y2="335" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="359" y1="337" x2="349" y2="337" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="507" y1="335" x2="359" y2="337" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="509.5" y1="335" x2="513.03553390593" y2="338.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="509.5" y1="335" x2="513.03553390593" y2="331.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="354" y1="337" x2="357.53553390593" y2="340.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="354" y1="337" x2="357.53553390593" y2="333.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="517" y1="355" x2="507" y2="355" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="359" y1="337" x2="349" y2="337" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="507" y1="355" x2="359" y2="337" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="509.5" y1="355" x2="513.03553390593" y2="358.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="509.5" y1="355" x2="513.03553390593" y2="351.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="354" y1="337" x2="357.53553390593" y2="340.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="354" y1="337" x2="357.53553390593" y2="333.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="267" y1="417" x2="257" y2="417" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="258" y1="230" x2="268" y2="230" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="257" y1="417" x2="258" y2="230" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="259.5" y1="417" x2="263.03553390593" y2="420.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="259.5" y1="417" x2="263.03553390593" y2="413.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="263" y1="230" x2="259.46446609407" y2="233.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="263" y1="230" x2="259.46446609407" y2="226.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <rect width="85" height="20" x="271" y="63" style="fill:#007;stroke:black;"/>
+   <text width="85" height="20" x="276" y="77" style="fill:#fff;" font-family="Arial" font-size="16px"> answers</text>
+   <rect width="85" height="20" x="271" y="83" style="fill:#aea;stroke:black;"/>
+   <text width="85" height="20" x="276" y="97" style="fill:black;" font-family="Arial" font-size="16px">ansID</text>
+   <rect width="85" height="20" x="271" y="103" style="fill:none;stroke:black;"/>
+   <text width="85" height="20" x="276" y="117" style="fill:black;" font-family="Arial" font-size="16px">ansType</text>
+   <rect width="85" height="20" x="271" y="123" style="fill:none;stroke:black;"/>
+   <text width="85" height="20" x="276" y="137" style="fill:black;" font-family="Arial" font-size="16px">nxtQuesID</text>
+   <rect width="85" height="20" x="271" y="143" style="fill:none;stroke:black;"/>
+   <text width="85" height="20" x="276" y="157" style="fill:black;" font-family="Arial" font-size="16px">ansSer</text>
+   <rect width="85" height="20" x="271" y="163" style="fill:none;stroke:black;"/>
+   <text width="85" height="20" x="276" y="177" style="fill:black;" font-family="Arial" font-size="16px">ansText</text>
+   <rect width="100" height="20" x="268" y="200" style="fill:#007;stroke:black;"/>
+   <text width="100" height="20" x="273" y="214" style="fill:#fff;" font-family="Arial" font-size="16px"> departments</text>
+   <rect width="100" height="20" x="268" y="220" style="fill:#aea;stroke:black;"/>
+   <text width="100" height="20" x="273" y="234" style="fill:black;" font-family="Arial" font-size="16px">depID</text>
+   <rect width="100" height="20" x="268" y="240" style="fill:none;stroke:black;"/>
+   <text width="100" height="20" x="273" y="254" style="fill:black;" font-family="Arial" font-size="16px">depName</text>
+   <rect width="96" height="20" x="507" y="72" style="fill:#007;stroke:black;"/>
+   <text width="96" height="20" x="512" y="86" style="fill:#fff;" font-family="Arial" font-size="16px"> questions</text>
+   <rect width="96" height="20" x="507" y="92" style="fill:#aea;stroke:black;"/>
+   <text width="96" height="20" x="512" y="106" style="fill:black;" font-family="Arial" font-size="16px">quesId</text>
+   <rect width="96" height="20" x="507" y="112" style="fill:none;stroke:black;"/>
+   <text width="96" height="20" x="512" y="126" style="fill:black;" font-family="Arial" font-size="16px">quesType</text>
+   <rect width="96" height="20" x="507" y="132" style="fill:none;stroke:black;"/>
+   <text width="96" height="20" x="512" y="146" style="fill:black;" font-family="Arial" font-size="16px">quesText</text>
+   <rect width="96" height="20" x="507" y="152" style="fill:none;stroke:black;"/>
+   <text width="96" height="20" x="512" y="166" style="fill:black;" font-family="Arial" font-size="16px">questOwner</text>
+   <rect width="96" height="20" x="507" y="172" style="fill:none;stroke:black;"/>
+   <text width="96" height="20" x="512" y="186" style="fill:black;" font-family="Arial" font-size="16px">ansID</text>
+   <rect width="78" height="20" x="517" y="225" style="fill:#007;stroke:black;"/>
+   <text width="78" height="20" x="522" y="239" style="fill:#fff;" font-family="Arial" font-size="16px"> tickets</text>
+   <rect width="78" height="20" x="517" y="245" style="fill:#aea;stroke:black;"/>
+   <text width="78" height="20" x="522" y="259" style="fill:black;" font-family="Arial" font-size="16px">tktID</text>
+   <rect width="78" height="20" x="517" y="265" style="fill:none;stroke:black;"/>
+   <text width="78" height="20" x="522" y="279" style="fill:black;" font-family="Arial" font-size="16px">tktTitle</text>
+   <rect width="78" height="20" x="517" y="285" style="fill:none;stroke:black;"/>
+   <text width="78" height="20" x="522" y="299" style="fill:black;" font-family="Arial" font-size="16px">tktText</text>
+   <rect width="78" height="20" x="517" y="305" style="fill:none;stroke:black;"/>
+   <text width="78" height="20" x="522" y="319" style="fill:black;" font-family="Arial" font-size="16px">tktState</text>
+   <rect width="78" height="20" x="517" y="325" style="fill:none;stroke:black;"/>
+   <text width="78" height="20" x="522" y="339" style="fill:black;" font-family="Arial" font-size="16px">tktSender</text>
+   <rect width="78" height="20" x="517" y="345" style="fill:none;stroke:black;"/>
+   <text width="78" height="20" x="522" y="359" style="fill:black;" font-family="Arial" font-size="16px">tktOwner</text>
+   <rect width="82" height="20" x="267" y="307" style="fill:#007;stroke:black;"/>
+   <text width="82" height="20" x="272" y="321" style="fill:#fff;" font-family="Arial" font-size="16px"> users</text>
+   <rect width="82" height="20" x="267" y="327" style="fill:#aea;stroke:black;"/>
+   <text width="82" height="20" x="272" y="341" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="82" height="20" x="267" y="347" style="fill:none;stroke:black;"/>
+   <text width="82" height="20" x="272" y="361" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="82" height="20" x="267" y="367" style="fill:none;stroke:black;"/>
+   <text width="82" height="20" x="272" y="381" style="fill:black;" font-family="Arial" font-size="16px">realName</text>
+   <rect width="82" height="20" x="267" y="387" style="fill:none;stroke:black;"/>
+   <text width="82" height="20" x="272" y="401" style="fill:black;" font-family="Arial" font-size="16px">passWord</text>
+   <rect width="82" height="20" x="267" y="407" style="fill:none;stroke:black;"/>
+   <text width="82" height="20" x="272" y="421" style="fill:black;" font-family="Arial" font-size="16px">depID</text>
+</svg>
